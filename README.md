@@ -23,7 +23,7 @@ Eu me chamo Larissa e estou fazendo o E.M. integrado a Informática para Web.
 
 <div style="display: inline_block width: 48%"><br>
   
-  <a href ="mailto:bifflarissa@gmail.com">
+  <a href ="bifflarissa@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF002F" target="_blank">
   </a>
  
